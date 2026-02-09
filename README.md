@@ -8,6 +8,9 @@ A passionate **AI & Full Stack Developer** || **Competitive Programmer (DSA)**
 💬 Ask me about:  
 Machine Learning • Full Stack Development • DSA • Competitive Programming  
 
+🌐 Portfolio / GitHub:  
+https://github.com/tirth5627  
+
 ---
 
 ## 🌐 Socials
@@ -36,11 +39,13 @@ Machine Learning • Full Stack Development • DSA • Competitive Programming
 
 ---
 
-## 🧠 Featured Projects
+## 🧠 Featured Projects (Curated)
 - **AI-based Disease Prediction System** – ML-powered symptom analysis  
 - **Chatify** – Real-time chat app (React, Node.js, Socket.io)  
-- **Helper Buddy** – Service-based platform (GWOC)  
+- **Helper Buddy** – Service platform (GWOC project)  
 - **Handwritten Text to Speech Converter**  
+
+_(Selected projects only — quality over quantity)_
 
 ---
 
@@ -60,7 +65,7 @@ Machine Learning • Full Stack Development • DSA • Competitive Programming
 ---
 
 ## 📈 Contribution Activity (Visual)
-> *Illustrative graph for profile aesthetics*
+> *Illustrative activity graph for profile aesthetics*
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth5627&theme=github-dark&area=true&hide_border=true" />
