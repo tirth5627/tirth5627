@@ -75,7 +75,6 @@ _(Selected projects only — quality over quantity)_
   <img src="https://github-profile-trophy.vercel.app/?username=tirth5627&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
----
 
 ### ✍️ Dev Quote
 <p align="center">
