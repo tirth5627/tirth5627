@@ -59,10 +59,19 @@ For collaboration, projects, or tech discussions 😊
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=tirth5627&theme=tokyonight&hide_border=true&cache_seconds=21600" />
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tirth5627&theme=tokyonight&hide_border=true&cache_seconds=21600" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tirth5627&theme=tokyonight&hide_border=true&cache_seconds=21600" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirth5627&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600" />
+</p>
 
 ---
 
