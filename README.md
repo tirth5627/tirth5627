@@ -67,10 +67,7 @@ _(Selected projects only — quality over quantity)_
 ## 📈 Contribution Activity (Visual)
 > *Illustrative activity graph for profile aesthetics*
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth5627&theme=github-dark&area=true&hide_border=true" />
-</p>
-
+<!-- Snake Game Repo View --> <div align="center"> <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> </div>
 ---
 
 ## 🏆 GitHub Trophies
