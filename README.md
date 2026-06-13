@@ -25,11 +25,6 @@ For collaboration, projects, or tech discussions 😊
 
 ---
 
-<!-- Snake Game Repo View -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
 ---
 
 <!-- ## 🏆 GitHub Trophies
@@ -57,13 +52,6 @@ For collaboration, projects, or tech discussions 😊
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="image.png" alt="GitHub Contribution Summary" />
-</p>
 
 
 ---
